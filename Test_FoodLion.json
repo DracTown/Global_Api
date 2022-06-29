@@ -1,4 +1,4 @@
-
+[
     {
         "productName": "Honey Ham",
         "productPrice": 3.63,
@@ -97,4 +97,4 @@
         "productQuantiity": 1,
        "purchaseDate": "Junior Software Developer"
     },
-
+]
