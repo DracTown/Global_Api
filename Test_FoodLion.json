@@ -1,4 +1,5 @@
-    {
+[    
+{
         "productName": "Honey Ham",
         "productPrice": 3.63,
         "Category": "Food",
@@ -95,4 +96,5 @@
         "Category": "Hygiene",
         "productQuantiity": 1,
        "purchaseDate": "Junior Software Developer"
-    }
+    },
+    ]
