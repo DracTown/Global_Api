@@ -19,42 +19,42 @@
         "productPrice": 3.99,
         "Category": "Food",
         "productQuantiity": 4,
-       "purchaseDate": "June"
+       "purchaseDate": "July"
     },
    {
         "productName": "Milk Choclate",
         "productPrice": 3.49,
         "Category": "Food",
         "productQuantiity": 1,
-       "purchaseDate": "June"
+       "purchaseDate": "July"
     },
    {
         "productName": "Chesse peperJack",
         "productPrice": 3.99,
         "Category": "Food",
         "productQuantiity": 1,
-       "purchaseDate": "June"
+       "purchaseDate": "September"
     },
    {
         "productName": "Mac Cheese",
         "productPrice": 1.28,
         "Category": "Food",
         "productQuantiity": 5,
-       "purchaseDate": "June"
+       "purchaseDate": "December"
     },
    {
         "productName": "Shampo",
         "productPrice": 5.79,
         "Category": "Hygiene",
         "productQuantiity": 1,
-       "purchaseDate": "June"
+       "purchaseDate": "January"
     },
    {
         "productName": "Grap Flavor",
         "productPrice": 4.39,
         "Category": "Drink",
         "productQuantiity": 5,
-       "purchaseDate": "June"
+       "purchaseDate": "January"
     },
    {
         "productName": "Mayo",
@@ -68,14 +68,14 @@
         "productPrice": 2.99,
         "Category": "Food",
         "productQuantiity": 1,
-       "purchaseDate": "June"
+       "purchaseDate": "March"
     },
    {
         "productName": "Energy Drink",
         "productPrice": 2.29,
         "Category": "Drink",
         "productQuantiity": 4,
-       "purchaseDate": "June"
+       "purchaseDate": "March"
     },
    {
         "productName": "Bacon",
