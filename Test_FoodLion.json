@@ -15,21 +15,21 @@
        "purchaseDate": "June"
     },
    {
-        "productName": "Micowave Dinner",
+        "productName": "Microwave Dinner",
         "productPrice": 3.99,
         "Category": "Food",
         "productQuantiity": 4,
        "purchaseDate": "July"
     },
    {
-        "productName": "Milk Choclate",
+        "productName": "Milk Chocolate",
         "productPrice": 3.49,
         "Category": "Food",
         "productQuantiity": 1,
        "purchaseDate": "July"
     },
    {
-        "productName": "Chesse peperJack",
+        "productName": "Cheese pepper Jack",
         "productPrice": 3.99,
         "Category": "Food",
         "productQuantiity": 1,
@@ -43,14 +43,14 @@
        "purchaseDate": "December"
     },
    {
-        "productName": "Shampo",
+        "productName": "Shampoo",
         "productPrice": 5.79,
         "Category": "Hygiene",
         "productQuantiity": 1,
        "purchaseDate": "January"
     },
    {
-        "productName": "Grap Flavor",
+        "productName": "Grape Flavor",
         "productPrice": 4.39,
         "Category": "Drink",
         "productQuantiity": 5,
@@ -97,6 +97,8 @@
         "Category": "Hygiene",
         "productQuantiity": 1,
        "purchaseDate": "June"
-    },
+    }
      
 ]
+
+
